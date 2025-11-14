@@ -15,31 +15,31 @@
 
 ---
 
-# 📌 1. Background & Overview
+## 📌 Background & Overview  
 
 (Start writing your content here: Introduction to the project, objectives, and context.)
 
 ---
 
-# 📂 2. Dataset Description & Data Structure
+# 📂 Dataset Description & Data Structure
 
 (Content for Section 2: Describe the data source, data fields/variables, data structure, and size.)
 
 ---
 
-# 🧠 3. Design Thinking Process
+# 🧠 Design Thinking Process
 
 (Content for Section 3: Explain the phases of the Design Thinking process you applied, such as Empathize, Define, Ideate, Prototype, and Test.)
 
 ---
 
-# 📊 4. Key Insights & Visualizations
+# 📊 Key Insights & Visualizations
 
 (Content for Section 4: Present the most significant analysis results, key findings, and related charts or data visualizations.)
 
 ---
 
-# 🔎 5. Final Conclusion & Recommendation
+# 🔎 Final Conclusion & Recommendation
 
 (Content for Section 5: State the final conclusion based on the insights and provide strategic recommendations or future steps.)
 
