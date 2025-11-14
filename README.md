@@ -41,7 +41,7 @@ The main goal is to give senior managers **clear, data-backed insights** so they
 
 ✔️ What is the current performance of Superstore?
 
-✔️ Which markets should Superstore expand into to increase revenue and ROI?
+✔️ Which markets should Superstore expand into to increase revenue?
 
 ✔️ Which products should be prioritized for strategic growth?
 
