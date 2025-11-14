@@ -6,16 +6,45 @@
 
 **Tools Used:** Power BI
 
-## Table of Contents
-* [📌 **1. Background & Overview**](#background--overview)
-* [📂 **2. Dataset Description & Data Structure**](#dataset-description--data-structure)
-* [🧠 **3. Design Thinking Process**](#design-thinking-process)
-* [📊 **4. Key Insights & Visualizations**](#key-insights--visualizations)
-* [🔎 **5. Final Conclusion & Recommendation**](#final-conclusion--recommendation)
+# Table of Contents
+
+* [📌 **1. Background & Overview**](#1-background--overview)
+* [📂 **2. Dataset Description & Data Structure**](#2-dataset-description--data-structure)
+* [🧠 **3. Design Thinking Process**](#3-design-thinking-process)
+* [📊 **4. Key Insights & Visualizations**](#4-key-insights--visualizations)
+* [🔎 **5. Final Conclusion & Recommendation**](#5-final-conclusion--recommendation)
 
 ---
 
-## 📌 Background & Overview
+# 📌 1. Background & Overview
+
+(Bắt đầu viết nội dung của bạn tại đây: Giới thiệu dự án, mục tiêu và bối cảnh.)
+
+---
+
+# 📂 2. Dataset Description & Data Structure
+
+(Viết nội dung về dữ liệu: Mô tả nguồn dữ liệu, các trường dữ liệu, số lượng bản ghi và cấu trúc.)
+
+---
+
+# 🧠 3. Design Thinking Process
+
+(Viết nội dung về quy trình tư duy thiết kế: Các giai đoạn bạn đã trải qua như Empathize, Define, Ideate, Prototype, và Test.)
+
+---
+
+# 📊 4. Key Insights & Visualizations
+
+(Viết nội dung về kết quả phân tích: Các phát hiện quan trọng từ dữ liệu và các biểu đồ/trực quan hóa liên quan.)
+
+---
+
+# 🔎 5. Final Conclusion & Recommendation
+
+(Viết nội dung về kết luận: Tóm tắt các kết quả, đưa ra các khuyến nghị chiến lược hoặc hành động tiếp theo.)
+
+---
 
 **Revenue**
 <img width="1326" height="785" alt="image" src="https://github.com/user-attachments/assets/9a02c175-5ac5-47f2-b936-1fda8e8066fc" />
