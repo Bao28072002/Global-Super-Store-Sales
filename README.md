@@ -127,7 +127,12 @@ The dataset consists of **three tables**:
 
 # 🧠 Design Thinking Process
 
-(Content for Section 3: Explain the phases of the Design Thinking process you applied, such as Empathize, Define, Ideate, Prototype, and Test.)
+### STAGE 1: EMPATHIZE - 5W1H
+
+| Who will view this Dashboard? | What problem does this dashboard solve? | When and where will stakeholders view this dashboard? | Why do stakeholders need this dashboard? | How have stakeholders tried to achieve this goal? |
+| :--- | :--- | :--- | :--- | :--- |
+| • Global Senior Manager<br>• Business Unit Head<br>• Regional Sale Manager | • Provides insights into company performance (Revenue, Profit & Growth)<br>• Supports strategic decisions (market/product focus)<br>• Saves time and improves decision-making efficiency<br>• Enables quick response to market changes with real-time data | **When:**<br>• Before monthly/quarterly strategic meetings<br>• When making expansion or product decisions<br>• When there are unusual sales fluctuations<br>• To compare market performance<br><br>**Where:**<br>• At office<br>• While on business trips | • Quickly grasp business performance without manual data work<br>• Make better decisions on market expansion & product focus<br>• React faster to market changes<br>• Save meeting time and enhance internal communication | • Monthly/quarterly analysis<br>• Review charts to understand key metrics<br>• Use meetings to discuss and connect data points<br>• Identify potential markets and products for growth |
+| **If only one key stakeholder is chosen, who would it be?**<br><br>Global Senior Manager | **Summarize the problem in one sentence**<br><br>This dashboard helps stakeholders understand past business performance and decide whether to expand into new markets, and if so, which markets and products to focus on. | | | |
 
 ---
 
