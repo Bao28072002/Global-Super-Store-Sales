@@ -18,31 +18,33 @@
 
 # 📌 1. Background & Overview
 
-(Bắt đầu viết nội dung của bạn tại đây: Giới thiệu dự án, mục tiêu và bối cảnh.)
+(Start writing your content here: Introduction to the project, objectives, and context.)
 
 ---
 
 # 📂 2. Dataset Description & Data Structure
 
-(Viết nội dung về dữ liệu: Mô tả nguồn dữ liệu, các trường dữ liệu, số lượng bản ghi và cấu trúc.)
+(Content for Section 2: Describe the data source, data fields/variables, data structure, and size.)
 
 ---
 
 # 🧠 3. Design Thinking Process
 
-(Viết nội dung về quy trình tư duy thiết kế: Các giai đoạn bạn đã trải qua như Empathize, Define, Ideate, Prototype, và Test.)
+(Content for Section 3: Explain the phases of the Design Thinking process you applied, such as Empathize, Define, Ideate, Prototype, and Test.)
 
 ---
 
 # 📊 4. Key Insights & Visualizations
 
-(Viết nội dung về kết quả phân tích: Các phát hiện quan trọng từ dữ liệu và các biểu đồ/trực quan hóa liên quan.)
+(Content for Section 4: Present the most significant analysis results, key findings, and related charts or data visualizations.)
 
 ---
 
 # 🔎 5. Final Conclusion & Recommendation
 
-(Viết nội dung về kết luận: Tóm tắt các kết quả, đưa ra các khuyến nghị chiến lược hoặc hành động tiếp theo.)
+(Content for Section 5: State the final conclusion based on the insights and provide strategic recommendations or future steps.)
+
+---
 
 ---
 
