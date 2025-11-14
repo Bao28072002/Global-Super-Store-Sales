@@ -17,7 +17,33 @@
 
 ## 📌 Background & Overview  
 
-(Start writing your content here: Introduction to the project, objectives, and context.)
+**📖 What is this project about?**
+
+This project is about building a powerful **Power BI dashboard** using the **Global Superstore Sales** data. This data includes records of customer transactions (**Orders**), who the sales reps are (**People**), and items that were sent back (**Returns**).
+
+The main goal is to give senior managers **clear, data-backed insights** so they can:
+
+* **Understand current business performance** (See how well the company is doing right now).
+* **Optimize market expansion strategies** (Figure out the best ways and places to grow the business).
+* **Identify strategic products for growth** (Find the products that should be prioritized for maximum success).
+* **Support better decision-making to drive revenue** (Use facts to make choices that boost sales).
+
+**👤 Who is this project for?**
+
+✔️ Data analysts & business analysts seeking actionable insights.
+
+✔️ Marketing and sales teams focusing on product performance and market growth.
+
+✔️ Route to market team aiming to improve distribution strategies and market reach.
+
+
+**❓Business Questions:**
+
+✔️ What is the current performance of Superstore?
+
+✔️ Which markets should Superstore expand into to increase revenue and ROI?
+
+✔️ Which products should be prioritized for strategic growth?
 
 ---
 
