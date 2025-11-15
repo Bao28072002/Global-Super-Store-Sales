@@ -142,7 +142,7 @@ The dataset consists of **three tables**:
 | Category | What the stakeholder THINKS and FEELS | What the stakeholder SEES | What the stakeholder SAYS and DOES |
 | :------- | :------------------------------------ | :------------------------ | :--------------------------------- |
 | **THINKS** | - Constantly worried about overall business performance and the pressure to grow. <br> - Fears missing out on market or product opportunities. | - Scattered reports in various Excel files from different teams, each with its own unique format. | - "I need a single, clear overview of global revenue." |
-| **FEELS** | - Unsure about which products or markets are best for expansion. <br> - Lacks trust in data because it's not real-time or synchronized. <br> - Gets frustrated waiting for others to explain data; wishes for independent access. | - Charts are often unclear or difficult to compare across different markets. <br> - Data frequently shows inconsistencies, missing entries, or misalignment. | - "Show me the top 3 products to invest in this year and why." <br> - Asks staff to prepare quicker, clearer, and more understandable reports. <br> - Often questions: "Why did we choose this market? Do we have data to support this?" <br> - Proactively looks for BI tools to verify data instead of waiting for reports. |
+| **FEELS** | - Unsure about which products or markets are best for expansion. <br> - Lacks trust in data because it's not real-time or synchronized. <br> - Gets frustrated waiting for others to explain data; wishes for independent access. | - Charts are often unclear or difficult to compare across different markets. <br> - Data frequently shows inconsistencies, missing entries, or misalignment. | - "Show me the top 10 products to invest in this year and why." <br> - Asks staff to prepare quicker, clearer, and more understandable reports. <br> - Often questions: "Why did we choose this market? Do we have data to support this?" <br> - Proactively looks for BI tools to verify data instead of waiting for reports. |
 
 ---
 
@@ -193,6 +193,38 @@ The dataset consists of **three tables**:
 
 ---
 
+## Dashboard Views and Focus Areas
+
+| View | Description | Purpose (Key Focus) |
+| :---: | :--- | :--- |
+| **Overall Performance (View 1)** | Assesses the **Revenue and Profit** across the entire operation. | To understand the global success level and identify financial trends. |
+| **Market (View 2)** | Evaluation of sales and profit distribution across geographies. | To **Evaluate Markets** and select high-potential ones for expansion. |
+| **Product (View 3)** | Analysis focused solely on product performance metrics. | To **Determine Strategic Products** and evaluate strong vs. weak performers for optimization. |
+| **Customer (View 4)** | Analysis of customer segments and demographics. | (Implied purpose from the navigation tabs) To understand buyer behavior and optimize sales efforts toward key customer segments. |
+
+---
+
+## VIEW BREAKDOWN & NORTHSTAR FORMULAS
+
+| View | Description | Why | NORTHSTAR Formula | Profit | Revenue |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| **View 1** | Overall Performance | Assess overall business performance to understand the global success level of the company. | View 1 breakdown | Total profit performance by location = SUM(Profit) across all countries/regions | Total revenue performance by location = SUM(Revenue) across all countries/regions |
+| **View 2** | Revenue & Profit | Identify potential markets. | View 2 breakdown | Total profit performance by category = SUM of all category | Total revenue pfm by category = SUM(Revenue) across all product categories |
+| **View 3** | Product | Determine strategic products and evaluate strong vs. weak performers. | View 3 breakdown | Total profit performance by category = SUM(Profit) across all product categories | Revenue by market = SUM(Revenue) grouped by region/country |
+
+---
+
+### STAGE 3: METRICS FOR OVERVIEW LAYER 
+
+**Start With:** Based on the NorthStar Metric, brainstorm breakdown dimensions and relevant insights from different perspectives of the NorthStar Metric.
+
+| Overview layer | Metric 1 | Metric 2 | Metric 3 | Metric 4 |
+| :--- | :--- | :--- | :--- | :--- |
+| | **Profit** | **Revenue** | **Profit Margin** | **Total Quantity** |
+| | Metric 5 | Metric 6 | Metric 7 | Metric 8 |
+| | **% Growth** | **YoY** | **Return Rate** | **Total order** |
+
+*Ghi chú: AOV là viết tắt của Average Order Value (Giá trị Đơn hàng Trung bình).*
 
 # 📊 Key Insights & Visualizations
 
