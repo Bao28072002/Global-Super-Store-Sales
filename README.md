@@ -233,14 +233,54 @@ The dataset consists of **three tables**:
 
 <img width="1335" height="756" alt="image" src="https://github.com/user-attachments/assets/c0b6631f-676d-4ec7-ba72-40a40623dbc9" />
 
-### 📌 Key Findings:
+# 📈 Key Findings: Global Superstore Sales Dashboard
+
+Based on the data from the dashboard, here are the key findings:
+
+## I. Overall Performance & Trends (All-Time)
+
+### Financial Health Overview
+* **Revenue:** **$12.64 Million**
+* **Profit:** **$1.467 Million**
+* **Profit Margin:** **11.61%** (considered healthy)
+
+### Positive Year-over-Year (YoY) Growth
+The current performance shows significant growth across core metrics:
+* **Revenue:** $\text{+51.5\%}$ ( $+\$4.3\text{M}$ )
+* **Profit:** $\text{+52.3\%}$ ( $+\$0.5\text{M}$ )
+* **Total Orders:** $\text{+51.7\%}$ ( $+\text{8.5K}$ )
+
+### Annual Sales Trend
+* Total sales show a **clear upward trend** from 2011 to 2014.
+* Sales **peaked** in **2014** with **$4.3 Million** in total sales.
+
 ---
+
+## II. Geographic and Segment Focus
+
+### 🌎 Market and Country Analysis
+* **Dominant Market:** **APAC** is the largest contributor to Total Sales with **$3.6 Million**, significantly outpacing **EU** ( $\$2.9\text{M}$ ).
+* **Leading Country:** The **United States** has the highest total sales: **$2.297 Million**.
+
+### 👤 Customer Segment Analysis
+* **Most Valuable Segment:** The **Consumer** segment accounts for the majority of Total Sales by Segment, at **51.48%** ( $\$6.51\text{M}$ ).
+
+---
+
+## III. Product Category and Order Details
+
+### 🛍️ Product Category
+* **Leading Category:** **Technology** leads in sales in the current period (Quarter chart), accounting for **37.53%** ( $\$4.7\text{M}$ ) of total sales.
+
+### 📦 Order and Return Details
+* **Total Orders Processed:** 25,035
+* **Total Quantity Sold:** 178,312
+* **Return Rate:** **4.68%** (This rate is down $\text{0.1\%}$ compared to the previous year).
 
 # 🔎 Final Conclusion & Recommendation
 
 (Content for Section 5: State the final conclusion based on the insights and provide strategic recommendations or future steps.)
 
----
 
 ---
 
