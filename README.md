@@ -357,17 +357,12 @@ The current performance shows significant growth across core metrics:
    - Corporate and Home Office also grow steadily.
    → Consumer remains the core market, but Corporate shows the strongest upward trend.
 
-5. **Top 10 Customers Drive Significant Profit**
-   - Highest customer profit: **$8.8K**
-   - All top-10 customers contribute **$6.5K–$8.8K**.
-   → Customer concentration is moderate but high-value customers are impactful.
-
-6. **Shipping Mode Insights**
+5. **Shipping Mode Insights**
    - Standard Class has the highest average orders (~5 orders).
    - Same-Day delivery nearly 0 orders.
    → Customers prioritize cost-saving shipping options over speed.
 
-7. **Returned Products**
+6. **Returned Products**
    - Total Returned: **1,172**
    → Return rate is manageable but requires continuous monitoring.   
 
