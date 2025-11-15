@@ -135,6 +135,26 @@ The dataset consists of **three tables**:
 | **If only one key stakeholder is chosen, who would it be?**<br><br>Global Senior Manager | **Summarize the problem in one sentence**<br><br>This dashboard helps stakeholders understand past business performance and decide whether to expand into new markets, and if so, which markets and products to focus on. | | | |
 
 ---
+## EMPATHIZE MAP
+
+| Category | What the stakeholder THINKS and FEELS | What the stakeholder SEES | What the stakeholder SAYS and DOES |
+| :------- | :------------------------------------ | :------------------------ | :--------------------------------- |
+| **THINKS** | - Constantly worried about overall business performance and the pressure to grow. <br> - Fears missing out on market or product opportunities. | - Scattered reports in various Excel files from different teams, each with its own unique format. | - "I need a single, clear overview of global revenue." |
+| **FEELS** | - Unsure about which products or markets are best for expansion. <br> - Lacks trust in data because it's not real-time or synchronized. <br> - Gets frustrated waiting for others to explain data; wishes for independent access. | - Charts are often unclear or difficult to compare across different markets. <br> - Data frequently shows inconsistencies, missing entries, or misalignment. | - "Show me the top 3 products to invest in this year and why." <br> - Asks staff to prepare quicker, clearer, and more understandable reports. <br> - Often questions: "Why did we choose this market? Do we have data to support this?" <br> - Proactively looks for BI tools to verify data instead of waiting for reports. |
+
+---
+
+## 🛑 What are the BIGGEST PROBLEMS and CHALLENGES?
+
+- **No unified, clear picture** of the global business status.
+- **Too much time spent** gathering, consolidating, and understanding data from various sources.
+- **Reliance on others** for data access and interpretation, hindering independent analysis.
+
+## ✅ What are the OPPORTUNITIES and BENEFITS?
+
+- Gain a **quick and clear understanding** of global business through a single, cohesive view.
+- Make **faster and more accurate strategic decisions** powered by visual, real-time data.
+- **Easily identify** promising markets and high-potential products for future growth.
 
 # 📊 Key Insights & Visualizations
 
