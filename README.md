@@ -277,25 +277,116 @@ The current performance shows significant growth across core metrics:
 
 <img width="1316" height="739" alt="image" src="https://github.com/user-attachments/assets/09ba7316-94ee-49d5-837c-94f1ac1c9f45" />
 
+### 📌 Key Findings:
+
+1. **Strong YoY Growth in Revenue & Profit**
+   - Revenue YoY: **+51.5% (+4.3M)**
+   - Profit YoY: **+52.3% (+0.5M)**
+   - → Indicates a solid and sustainable growth performance.
+
+2. **Significant Increase in Total Orders & Quantity**
+   - Total Orders YoY: **+51.7% (+8.5K)**
+   - Total Quantity YoY: **+51.5% (+60,622)**
+   - → Both order volume and total items sold increased substantially.
+
+3. **Return Rate Remains Stable**
+   - Return Rate: **4.68%**
+   - Rate YoY: **-0.1%**
+   - → Slight improvement despite strong sales growth.
+
+4. **APAC & EU Are the Top-Contributing Markets**
+   - APAC: **$3.58M**
+   - EU: **$2.94M**
+   - → These regions drive the highest revenue.
+
+5. **Central & South Lead in Revenue by Region**
+   - Central: **~2.8M**
+   - South: **~1.6M**
+   - → Central is the highest-performing region.
+
+6. **Return Volume Concentrated in North America & Europe**
+   - Highest return density in: **US** and **Europe**
+   - → Possibly linked to logistics or regional return policies.
+   - 
+<img width="1321" height="738" alt="image" src="https://github.com/user-attachments/assets/8b477355-e5c2-4751-a465-7b853bfd1983" />
+
+1. **Order Volume**
+   - Total Orders: **25,035**
+   - YoY Order Growth: **+51.7%**
+   - → Indicates strong and consistent market demand.
+
+2. **Return Rate**
+   - Return Rate: **4.68%**
+   - YoY Change: **-0.1%**
+   - → Slight improvement, showing stable product quality and delivery performance.
+
+3. **Product Category Performance**
+   - Technology products (Phones, Machines, Copiers) generate the highest sales.
+   - Furniture items such as Bookcases and Chairs also show solid performance.
+   - → Technology is the top revenue-driving category.
+
+4. **Market/Region Trends**
+   - EU and APAC are the strongest revenue-contributing regions.
+   - → These are priority markets for strategic focus.
+  
+### 📌 Key Findings:
+
+1. **Strong Financial Performance**
+   - Total Revenue: **12.643M**
+   - Total Profit: **1.467M**
+   - YoY Growth:
+     - Revenue: **+51.5%**
+     - Profit: **+52.3%**
+   → The business experienced a major improvement compared to last year.
+
+2. **Customer Base and Activity**
+   - Total Customers: **1,590**
+   - Total Orders: **25,035**
+   - Products: **3,788 SKU**
+   → High product diversity supports strong order volume.
+
+3. **Average Profit per Customer Shows Clear Growth**
+   - 2011: **$190**
+   - 2012: **$224**
+   - 2013: **$279**
+   - 2014: **$334**
+   → Profit per customer increases steadily year over year, showing improved customer value.
+
+4. **Revenue by Segment**
+   - Consumer segment leads revenue every year.
+   - Corporate and Home Office also grow steadily.
+   → Consumer remains the core market, but Corporate shows the strongest upward trend.
+
+5. **Top 10 Customers Drive Significant Profit**
+   - Highest customer profit: **$8.8K**
+   - All top-10 customers contribute **$6.5K–$8.8K**.
+   → Customer concentration is moderate but high-value customers are impactful.
+
+6. **Shipping Mode Insights**
+   - Standard Class has the highest average orders (~5 orders).
+   - Same-Day delivery nearly 0 orders.
+   → Customers prioritize cost-saving shipping options over speed.
+
+7. **Returned Products**
+   - Total Returned: **1,172**
+   → Return rate is manageable but requires continuous monitoring.   
 
 # 🔎 Final Conclusion & Recommendation
 
-(Content for Section 5: State the final conclusion based on the insights and provide strategic recommendations or future steps.)
-
-
----
-
-**Revenue**
-<img width="1326" height="785" alt="image" src="https://github.com/user-attachments/assets/9a02c175-5ac5-47f2-b936-1fda8e8066fc" />
-
-**Product**
-<img width="1320" height="742" alt="image" src="https://github.com/user-attachments/assets/d02e58e5-a7fe-4bad-b0c3-6d93d6670036" />
-
-**Market**
-<img width="1316" height="736" alt="image" src="https://github.com/user-attachments/assets/2fbcb14c-823f-4ae4-b17e-7e42cc806f8a" />
-
-**Customer**
-<img width="1316" height="736" alt="image" src="https://github.com/user-attachments/assets/ba49b97d-1114-4906-ba67-8cee975661bf" />
+| Strategy | Key Findings (What We Know) | Actionable Recommendations (What We Should Do) |
+| :--- | :--- | :--- |
+| **🚀 1. Market Expansion** | | |
+| | **Canada:** Has a **very high profit margin (28%)** despite low sales. | **Expand Smartly in Canada** to capture maximum profit. |
+| | **Africa & EMEA:** Showing **extremely rapid revenue growth** . | **Increase Investment in Africa and EMEA** to leverage this strong growth momentum. |
+| | **Oceania & Africa:** Attracting the **most new customers**. | **Focus promotions** in Oceania & Africa to drive higher new customer acquisition. |
+| **🛒 2. Product Optimization** | | |
+| | **Technology:** Leads in both **revenue** and **profit**. | **Scale the Technology category**, focusing on high-profit items like Canon Copiers and Motorola/Cisco Phones. |
+| | **Accessories, Art, Labels:** High profit, but **low sales volume**. | **Market these high-margin items more aggressively** to boost sales. |
+| | **Tables:** Sell well but **negative profit**. **Suppliers & Furnishings:** Poor performance overall. | **Consider delisting (or redesigning) Tables, Suppliers, and Furnishings** due to poor profitability. |
+| | **Storage:** High **orders** but **low profit margin**. | **Review Storage pricing** and costs to improve profitability. |
+| **⚙️ 3. Operational Efficiency** | | |
+| | **Central Region:** Has the **highest employee productivity** ($2.07M revenue/employee). | **Replicate the Central Region's efficient model** across other regions. |
+| | **Standard Class Shipping:** Dominates shipping revenue. | **Focus on Standard Class shipping** and audit other modes for potential cost savings. |
 
 
 
