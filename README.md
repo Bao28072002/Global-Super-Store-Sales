@@ -373,20 +373,12 @@ The current performance shows significant growth across core metrics:
 
 # 🔎 Final Conclusion & Recommendation
 
-| Strategy | Key Findings (What We Know) | Actionable Recommendations (What We Should Do) |
+| **Strategy** | **Key Findings** | **Actionable Recommendations** |
 | :--- | :--- | :--- |
-| **🚀 1. Market Expansion** | | |
-| | **Canada:** Has a **very high profit margin (28%)** despite low sales. | **Expand Smartly in Canada** to capture maximum profit. |
-| | **Africa & EMEA:** Showing **extremely rapid revenue growth** . | **Increase Investment in Africa and EMEA** to leverage this strong growth momentum. |
-| | **Oceania & Africa:** Attracting the **most new customers**. | **Focus promotions** in Oceania & Africa to drive higher new customer acquisition. |
-| **🛒 2. Product Optimization** | | |
-| | **Technology:** Leads in both **revenue** and **profit**. | **Scale the Technology category**, focusing on high-profit items like Canon Copiers and Motorola/Cisco Phones. |
-| | **Accessories, Art, Labels:** High profit, but **low sales volume**. | **Market these high-margin items more aggressively** to boost sales. |
-| | **Tables:** Sell well but **negative profit**. **Suppliers & Furnishings:** Poor performance overall. | **Consider delisting (or redesigning) Tables, Suppliers, and Furnishings** due to poor profitability. |
-| | **Storage:** High **orders** but **low profit margin**. | **Review Storage pricing** and costs to improve profitability. |
-| **⚙️ 3. Operational Efficiency** | | |
-| | **Central Region:** Has the **highest employee productivity** ($2.07M revenue/employee). | **Replicate the Central Region's efficient model** across other regions. |
-| | **Standard Class Shipping:** Dominates shipping revenue. | **Focus on Standard Class shipping** and audit other modes for potential cost savings. |
+| **🚀 Market Expansion** | - **Canada:** Very high profit margin (28%) despite low sales. <br> - **Africa & EMEA:** Extremely rapid revenue growth. <br> - **Oceania & Africa:** Attracting the most new customers. | - **Canada:** Expand smartly to capture maximum profit. <br> - **Africa & EMEA:** Increase investment to leverage growth. <br> - **Oceania & Africa:** Focus promotions to drive new customer acquisition. |
+| **🛒 Product Optimization** | - **Technology:** Leads in both revenue and profit. <br> - **Accessories, Art, Labels:** High profit but low sales volume. <br> - **Tables:** Good sales but negative profit. <br> - **Suppliers & Furnishings:** Poor overall performance. <br> - **Storage:** High orders but low profit margin. | - **Technology:** Scale up, focus on high-profit items (Canon Copiers, Motorola/Cisco Phones). <br> - **Accessories, Art, Labels:** Market aggressively to boost sales. <br> - **Tables, Suppliers, Furnishings:** Consider delisting or redesigning. <br> - **Storage:** Review pricing and costs to improve profitability. |
+| **⚙️ Operational Efficiency** | - **Standard Class Shipping:** Dominates shipping revenue. | - **Focus on Standard Class shipping** and audit other modes for potential cost savings. |
+
 
 
 
