@@ -171,6 +171,29 @@ The dataset consists of **three tables**:
 | **3** | **Strategy Finalization and Brainstorming** | After receiving the dashboard, stakeholders conduct meetings to **brainstorm ideas** and **finalize the business strategies** for moving forward and execution. |
 | **4** | **Deployment and Performance Tracking** | **(This step is completed based on the project's logic)** <br> **New products are launched** in the new markets. Sell-in and sell-out data is **regularly updated** into the system to continuously monitor performance and allow for strategic adjustments. |
 
+---
+
+## DEFINE NORTHSTAR METRICS
+
+| | **NORTHSTAR 1** | **NORTHSTAR 2 (Optional)** |
+| :--- | :--- | :--- |
+| **What VALUE you want to measure?** | Company profit | Company revenue |
+| **WHEN the value DELIVERY SUCCESS?** | If the profit meets or exceeds the annual/quarterly plan + successful delivery. If it's lower, there must be insight to explain and adjust. | Meets or exceeds the set revenue target. |
+| **Northstar Metric Name** | Profit | Revenue |
+| **WHY do you choose this metric?** | - It's a realistic metric: high revenue doesn't mean much if costs are also high. Profit shows whether the company is running efficiently. <br> - Helps senior managers identify which markets or product lines bring in more profit, guiding investment priorities. | - Directly aligns with the goal of market expansion. <br> - Revenue represents cash inflow—good revenue means the market is accepting the company's products/services. |
+
+---
+
+## Dimension Data Grouping
+
+| Dimension Data Group | **Group 1** | **Group 2** | **Group 3** | **Group 4** |
+| :---: | :---: | :---: | :---: | :---: |
+| **Primary Dimension Name** | Location | Product | Time | Customer Type |
+| **Detailed Attributes** | Market/Region/Country/State | Segment, Category, SubCat, Product name | Year, quarter, month, day | Demographic |
+
+---
+
+
 # 📊 Key Insights & Visualizations
 
 (Content for Section 4: Present the most significant analysis results, key findings, and related charts or data visualizations.)
