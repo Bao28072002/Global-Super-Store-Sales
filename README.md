@@ -127,7 +127,9 @@ The dataset consists of **three tables**:
 
 # 🧠 Design Thinking Process
 
-### STAGE 1: EMPATHIZE - 5W1H
+### STAGE 1: EMPATHIZE
+
+## EMPATHIZE - 5W1H
 
 | Who will view this Dashboard? | What problem does this dashboard solve? | When and where will stakeholders view this dashboard? | Why do stakeholders need this dashboard? | How have stakeholders tried to achieve this goal? |
 | :--- | :--- | :--- | :--- | :--- |
@@ -155,6 +157,19 @@ The dataset consists of **three tables**:
 - Gain a **quick and clear understanding** of global business through a single, cohesive view.
 - Make **faster and more accurate strategic decisions** powered by visual, real-time data.
 - **Easily identify** promising markets and high-potential products for future growth.
+
+---
+
+### STAGE 2: Define point of view
+
+## STAKEHOLDERS JOURNEY
+
+| Step | Title | Detailed Description (Paraphrased) |
+| :---: | :--- | :--- |
+| **1** | **Assess Current Business Performance** | Starting from the company's actual business situation, the **Board of Directors (BOD)** and relevant managers aim to **understand performance and trends** over the years. If results are positive, they plan to **expand into new markets** and select suitable products to maximize revenue. |
+| **2** | **Request Data Visualization & Insights** | To obtain the necessary insights, stakeholders reach out to **Data Analysts** to **build dashboards** that clearly visualize business performance. This process enables them to **identify growth opportunities** and **potential products** to focus on. |
+| **3** | **Strategy Finalization and Brainstorming** | After receiving the dashboard, stakeholders conduct meetings to **brainstorm ideas** and **finalize the business strategies** for moving forward and execution. |
+| **4** | **Deployment and Performance Tracking** | **(This step is completed based on the project's logic)** <br> **New products are launched** in the new markets. Sell-in and sell-out data is **regularly updated** into the system to continuously monitor performance and allow for strategic adjustments. |
 
 # 📊 Key Insights & Visualizations
 
