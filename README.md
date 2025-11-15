@@ -233,22 +233,20 @@ The dataset consists of **three tables**:
 
 <img width="1335" height="756" alt="image" src="https://github.com/user-attachments/assets/c0b6631f-676d-4ec7-ba72-40a40623dbc9" />
 
-# 📈 Key Findings: Global Superstore Sales Dashboard
-
-Based on the data from the dashboard, here are the key findings:
+### 📌 Key Findings:
 
 ## I. Overall Performance & Trends (All-Time)
 
-### Financial Health Overview
+### Overview
 * **Revenue:** **$12.64 Million**
 * **Profit:** **$1.467 Million**
 * **Profit Margin:** **11.61%** (considered healthy)
 
 ### Positive Year-over-Year (YoY) Growth
 The current performance shows significant growth across core metrics:
-* **Revenue:** $\text{+51.5\%}$ ( $+\$4.3\text{M}$ )
-* **Profit:** $\text{+52.3\%}$ ( $+\$0.5\text{M}$ )
-* **Total Orders:** $\text{+51.7\%}$ ( $+\text{8.5K}$ )
+* **Revenue YoY:** **+51.5%** (+$4.3M)
+* **Profit YoY:** **+52.3%** (+$0.5M)
+* **Total Orders YoY:** **+51.7%** (+8.5K)
 
 ### Annual Sales Trend
 * Total sales show a **clear upward trend** from 2011 to 2014.
@@ -276,6 +274,9 @@ The current performance shows significant growth across core metrics:
 * **Total Orders Processed:** 25,035
 * **Total Quantity Sold:** 178,312
 * **Return Rate:** **4.68%** (This rate is down $\text{0.1\%}$ compared to the previous year).
+
+<img width="1316" height="739" alt="image" src="https://github.com/user-attachments/assets/09ba7316-94ee-49d5-837c-94f1ac1c9f45" />
+
 
 # 🔎 Final Conclusion & Recommendation
 
