@@ -224,12 +224,16 @@ The dataset consists of **three tables**:
 | | Metric 5 | Metric 6 | Metric 7 | Metric 8 |
 | | **% Growth** | **YoY** | **Return Rate** | **Total order** |
 
-*Ghi chú: AOV là viết tắt của Average Order Value (Giá trị Đơn hàng Trung bình).*
 
 # 📊 Key Insights & Visualizations
 
-(Content for Section 4: Present the most significant analysis results, key findings, and related charts or data visualizations.)
+### 🔍 Dashboard Preview
 
+### I. Overview
+
+<img width="1335" height="756" alt="image" src="https://github.com/user-attachments/assets/c0b6631f-676d-4ec7-ba72-40a40623dbc9" />
+
+### 📌 Key Findings:
 ---
 
 # 🔎 Final Conclusion & Recommendation
