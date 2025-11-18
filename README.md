@@ -307,7 +307,7 @@ The current performance shows significant growth across core metrics:
 6. **Return Volume Concentrated in North America & Europe**
    - Highest return density in: **US** and **Europe**
    - → Possibly linked to logistics or regional return policies.
-   - 
+     
 <img width="1321" height="738" alt="image" src="https://github.com/user-attachments/assets/8b477355-e5c2-4751-a465-7b853bfd1983" />
 
 1. **Order Volume**
