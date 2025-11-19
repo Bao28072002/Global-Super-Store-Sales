@@ -11,7 +11,7 @@
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
 3. [🧠 Design Thinking Process](#-design-thinking-process)  
 4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
-5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendation)
+5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendationsmmendations)
 
 ---
 
@@ -366,7 +366,7 @@ The current performance shows significant growth across core metrics:
    - Total Returned: **1,172**
    → Return rate is manageable but requires continuous monitoring.   
 
-# 🔎 Final Conclusion & Recommendation
+# 🔎 Final Conclusion & Recommendations
 
 | **Strategy** | **Key Findings** | **Actionable Recommendations** |
 | :--- | :--- | :--- |
