@@ -133,12 +133,9 @@ The dataset consists of **three tables**:
 
 <img width="1272" height="710" alt="image" src="https://github.com/user-attachments/assets/b4b7687c-6a7f-45d7-bf37-bb53696f52ef" />
 
----
 ## EMPATHIZE MAP
 
 <img width="1285" height="722" alt="image" src="https://github.com/user-attachments/assets/b3425430-ebd1-45a4-81f6-59bc26cdc492" />
-
----
 
 ### STAGE 2: Define point of view
 
@@ -146,25 +143,18 @@ The dataset consists of **three tables**:
 
 <img width="1277" height="704" alt="image" src="https://github.com/user-attachments/assets/fa792641-dab3-4461-a612-8fa1ccabf05d" />
 
----
 
 ## DEFINE NORTHSTAR METRICS
 
 <img width="1274" height="725" alt="image" src="https://github.com/user-attachments/assets/4c05a115-31ba-4a89-a5e5-4c34955bbaf5" />
 
----
-
 ## Dimension Data Grouping
 
 <img width="1279" height="725" alt="image" src="https://github.com/user-attachments/assets/0c5cd5ed-2317-48ef-948c-f6383592a751" />
 
----
-
 ## VIEW BREAKDOWN & NORTHSTAR FORMULAS
 
 <img width="1278" height="715" alt="image" src="https://github.com/user-attachments/assets/41966025-2932-44fd-aadb-cf533893eecb" />
-
----
 
 ### STAGE 3: METRICS FOR OVERVIEW LAYER 
 
