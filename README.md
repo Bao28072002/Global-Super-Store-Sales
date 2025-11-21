@@ -144,65 +144,31 @@ The dataset consists of **three tables**:
 
 ## STAKEHOLDERS JOURNEY
 
-| Step | Title | Detailed Description (Paraphrased) |
-| :---: | :--- | :--- |
-| **1** | **Assess Current Business Performance** | Starting from the company's actual business situation, the **Board of Directors (BOD)** and relevant managers aim to **understand performance and trends** over the years. If results are positive, they plan to **expand into new markets** and select suitable products to maximize revenue. |
-| **2** | **Request Data Visualization & Insights** | To obtain the necessary insights, stakeholders reach out to **Data Analysts** to **build dashboards** that clearly visualize business performance. This process enables them to **identify growth opportunities** and **potential products** to focus on. |
-| **3** | **Strategy Finalization and Brainstorming** | After receiving the dashboard, stakeholders conduct meetings to **brainstorm ideas** and **finalize the business strategies** for moving forward and execution. |
-| **4** | **Deployment and Performance Tracking** | **(This step is completed based on the project's logic)** <br> **New products are launched** in the new markets. Sell-in and sell-out data is **regularly updated** into the system to continuously monitor performance and allow for strategic adjustments. |
+<img width="1277" height="704" alt="image" src="https://github.com/user-attachments/assets/fa792641-dab3-4461-a612-8fa1ccabf05d" />
 
 ---
 
 ## DEFINE NORTHSTAR METRICS
 
-| | **NORTHSTAR 1** | **NORTHSTAR 2 (Optional)** |
-| :--- | :--- | :--- |
-| **What VALUE you want to measure?** | Company profit | Company revenue |
-| **WHEN the value DELIVERY SUCCESS?** | If the profit meets or exceeds the annual/quarterly plan + successful delivery. If it's lower, there must be insight to explain and adjust. | Meets or exceeds the set revenue target. |
-| **Northstar Metric Name** | Profit | Revenue |
-| **WHY do you choose this metric?** | - It's a realistic metric: high revenue doesn't mean much if costs are also high. Profit shows whether the company is running efficiently. <br> - Helps senior managers identify which markets or product lines bring in more profit, guiding investment priorities. | - Directly aligns with the goal of market expansion. <br> - Revenue represents cash inflow—good revenue means the market is accepting the company's products/services. |
+<img width="1274" height="725" alt="image" src="https://github.com/user-attachments/assets/4c05a115-31ba-4a89-a5e5-4c34955bbaf5" />
 
 ---
 
 ## Dimension Data Grouping
 
-| Dimension Data Group | **Group 1** | **Group 2** | **Group 3** | **Group 4** |
-| :---: | :---: | :---: | :---: | :---: |
-| **Primary Dimension Name** | Location | Product | Time | Customer Type |
-| **Detailed Attributes** | Market/Region/Country/State | Segment, Category, SubCat, Product name | Year, quarter, month, day | Demographic |
-
----
-
-## Dashboard Views and Focus Areas
-
-| View | Description | Purpose (Key Focus) |
-| :---: | :--- | :--- |
-| **Overall Performance (View 1)** | Assesses the **Revenue and Profit** across the entire operation. | To understand the global success level and identify financial trends. |
-| **Market (View 2)** | Evaluation of sales and profit distribution across geographies. | To **Evaluate Markets** and select high-potential ones for expansion. |
-| **Product (View 3)** | Analysis focused solely on product performance metrics. | To **Determine Strategic Products** and evaluate strong vs. weak performers for optimization. |
-| **Customer (View 4)** | Analysis of customer segments and demographics. | (Implied purpose from the navigation tabs) To understand buyer behavior and optimize sales efforts toward key customer segments. |
+<img width="1279" height="725" alt="image" src="https://github.com/user-attachments/assets/0c5cd5ed-2317-48ef-948c-f6383592a751" />
 
 ---
 
 ## VIEW BREAKDOWN & NORTHSTAR FORMULAS
 
-| View | Description | Why | NORTHSTAR Formula | Profit | Revenue |
-| :---: | :--- | :--- | :---: | :--- | :--- |
-| **View 1** | Overall Performance | Assess overall business performance to understand the global success level of the company. | View 1 breakdown | Total profit performance by location = SUM(Profit) across all countries/regions | Total revenue performance by location = SUM(Revenue) across all countries/regions |
-| **View 2** | Revenue & Profit | Identify potential markets. | View 2 breakdown | Total profit performance by category = SUM of all category | Total revenue pfm by category = SUM(Revenue) across all product categories |
-| **View 3** | Product | Determine strategic products and evaluate strong vs. weak performers. | View 3 breakdown | Total profit performance by category = SUM(Profit) across all product categories | Revenue by market = SUM(Revenue) grouped by region/country |
+<img width="1278" height="715" alt="image" src="https://github.com/user-attachments/assets/41966025-2932-44fd-aadb-cf533893eecb" />
 
 ---
 
 ### STAGE 3: METRICS FOR OVERVIEW LAYER 
 
-**Start With:** Based on the NorthStar Metric, brainstorm breakdown dimensions and relevant insights from different perspectives of the NorthStar Metric.
-
-| Overview layer | Metric 1 | Metric 2 | Metric 3 | Metric 4 |
-| :--- | :--- | :--- | :--- | :--- |
-| | **Profit** | **Revenue** | **Profit Margin** | **Total Quantity** |
-| | Metric 5 | Metric 6 | Metric 7 | Metric 8 |
-| | **% Growth** | **YoY** | **Return Rate** | **Total order** |
+<img width="1280" height="511" alt="image" src="https://github.com/user-attachments/assets/9d2a99d9-3ac0-4c52-871d-3772d1790981" />
 
 
 # 📊 Key Insights & Visualizations
