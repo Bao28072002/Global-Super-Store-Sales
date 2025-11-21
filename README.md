@@ -167,7 +167,7 @@ The dataset consists of **three tables**:
 
 ### I. Overview
 
-<img width="1335" height="756" alt="image" src="https://github.com/user-attachments/assets/c0b6631f-676d-4ec7-ba72-40a40623dbc9" />
+<img width="1331" height="742" alt="image" src="https://github.com/user-attachments/assets/a2a0b4ad-65e3-4910-adea-badf47fe5406" />
 
 ### 📌 Key Findings:
 
@@ -192,6 +192,9 @@ The current performance shows significant growth across core metrics:
 
 ## II. Geographic and Segment Focus
 
+<img width="1307" height="740" alt="image" src="https://github.com/user-attachments/assets/5ac27c66-9835-4ca5-9584-b6cde87631cc" />
+
+
 ### 🌎 Market and Country Analysis
 * **Dominant Market:** **APAC** is the largest contributor to Total Sales with **$3.6 Million**, significantly outpacing **EU** ( $\$2.9\text{M}$ ).
 * **Leading Country:** The **United States** has the highest total sales: **$2.297 Million**.
@@ -203,6 +206,9 @@ The current performance shows significant growth across core metrics:
 
 ## III. Product Category and Order Details
 
+<img width="1305" height="731" alt="image" src="https://github.com/user-attachments/assets/8d2501ca-f88e-4d8a-8d1f-9281b6dec9f1" />
+
+
 ### 🛍️ Product Category
 * **Leading Category:** **Technology** leads in sales in the current period (Quarter chart), accounting for **37.53%** ( $\$4.7\text{M}$ ) of total sales.
 
@@ -210,8 +216,6 @@ The current performance shows significant growth across core metrics:
 * **Total Orders Processed:** 25,035
 * **Total Quantity Sold:** 178,312
 * **Return Rate:** **4.68%** (This rate is down $\text{0.1\%}$ compared to the previous year).
-
-<img width="1316" height="739" alt="image" src="https://github.com/user-attachments/assets/09ba7316-94ee-49d5-837c-94f1ac1c9f45" />
 
 ### 📌 Key Findings:
 
@@ -264,6 +268,9 @@ The current performance shows significant growth across core metrics:
 4. **Market/Region Trends**
    - EU and APAC are the strongest revenue-contributing regions.
    - → These are priority markets for strategic focus.
+  
+<img width="1305" height="731" alt="image" src="https://github.com/user-attachments/assets/8b8d7b0a-9494-41e5-8ba9-38662abdfa06" />
+ 
   
 ### 📌 Key Findings:
 
